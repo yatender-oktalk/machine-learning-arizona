@@ -1,0 +1,13 @@
+requests~=2.31.0
+requests-html==0.10.0
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+wordcloud
+notebook==5.7.5
+scipy
+Pyarrow
+prometheus-client
+scikit-learn
