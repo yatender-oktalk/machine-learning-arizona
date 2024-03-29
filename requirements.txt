@@ -6,8 +6,9 @@ matplotlib
 seaborn
 plotly
 wordcloud
-notebook==5.7.5
+notebook
 scipy
 Pyarrow
 prometheus-client
 scikit-learn
+statsmodel
