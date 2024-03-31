@@ -12,3 +12,4 @@ Pyarrow
 statsmodels
 scikit-learn
 seaborn-qqplot
+nbconvert
