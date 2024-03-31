@@ -6,9 +6,9 @@ matplotlib
 seaborn
 plotly
 wordcloud
-notebook
+jupyter
 scipy
 Pyarrow
-prometheus-client
+statsmodels
 scikit-learn
-statsmodel
+seaborn-qqplot
